@@ -46,9 +46,11 @@ Copier également le contenu de ce fichier dans le `README.md` de votre repo en 
 Template
 
 ```
-> Groupe XXX
-> GitHub : https://github.com/esgi-na-sa/TP1
-> branch1 : Élève 1 / @eleve1
-> branch2 : Élève 2 / @eleve2
-> branch3 : Élève 3 / @eleve3
+https://github.com/paulyyyyyn/TP_Eval
+
+PISSET Noah | branche1 | KOYUKlI
+
+DANTHON Paulyn | branche2 | paulyyyyyn
+
+BOUSSAHA Yanis | branche3 | Taqkt
 ```
